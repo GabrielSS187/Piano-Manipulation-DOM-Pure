@@ -28,8 +28,6 @@
 
 # 2 - Propriedades
 
-<br />
-
 - **.documentElement** : Captura o elemento raiz **html** de um documento HTML.
 
 - **.getElementById** : Busca um elemento da página Web com o uso do atributo id do elemento.
@@ -49,8 +47,6 @@
 - **.parentNode** : Retorna o nodo pai de um nodo.
 
 ## As propriedades mais usadas e aconselhadas :
-
-<br/>
 
 - **.querySelector** : exemplo : .querySelector(".example") : O método querySelector() retorna o primeiro elemento filho que corresponde a um seletor CSS especificado de um elemento.
 
