@@ -234,3 +234,9 @@ Como se é de esperar, quando usamos o innerHTML ele irá retornar todo o texto 
 - **id** : A propriedade id define ou retorna o id de um elemento (o valor do atributo id de um elemento). Exemplo : alterando o "id" de um elemento : **document.getElementById("demo").id = "newid"**
 
 - **className** : "O className" é a propriedade de um elemento. Ele retorna uma lista separada por espaços de classes CSS do elemento:
+
+# Autor
+
+Gabriel Silva Souza
+
+https://www.linkedin.com/in/gabriel-silva-souza-developer
