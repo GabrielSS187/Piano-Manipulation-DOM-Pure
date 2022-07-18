@@ -8,6 +8,8 @@
 
 ## Link do Projeto Piano : [Aqui](https://piano-dom-js.surge.sh/)
 
+![Captura de Tela (144)](https://user-images.githubusercontent.com/86306877/179430285-a910a416-375e-40a8-b98a-d0057db81582.png)
+
 ## Link do Video : [Manipulação de DOM com JavaScript, do zero, na prática](https://www.youtube.com/watch?v=UftSB4DaRU4&ab_channel=Rocketseat)
 
 ## Sites mais detalhados : [Khan Academy](https://pt.khanacademy.org/computing/computer-programming/html-css-js/html-js-dom-access/a/summary-dom-access-methods), [Broga](https://emersonbroga.com/manipulando-dom-com-textcontent-innertext-e-innerhtml/), [Como modificar atributos, classes e estilos no DOM](https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom-pt)
